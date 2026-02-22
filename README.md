@@ -26,10 +26,10 @@ PowerPoint Jira Automator is a script designed to automate Jira operations such 
 
 ### Key Features
 
-- **Automated Epic Management** – Create, update, and delete features under an epic based on VISA slides.
-- **PowerPoint Parsing** – Extract structured information from PowerPoint VISA to define Jira tasks.
+- **Automated Epic Management** – Create, update, and delete features under an epic based on Architecture Document slides.
+- **PowerPoint Parsing** – Extract structured information from PowerPoint Architecture Document to define Jira tasks.
 - **Jira API Integration** – Connect seamlessly with Jira Cloud or Jira Server using REST APIs.
-- **Customizable Workflow Rules** – Define business logic for Jira automation directly from your VISA documents.
+- **Customizable Workflow Rules** – Define business logic for Jira automation directly from your Architecture Document documents.
 - **Docker & AWS Deployable** – Easily run the automation in local or cloud environments.
 
 ## Installation
